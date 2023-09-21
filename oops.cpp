@@ -80,8 +80,6 @@ cout<<hero::time<<endl;
 
 cout<<hero::func()<<endl;
 
-
-
 // b.sethealth(100);
 // char name[7]= "babbar";
 // b.setname(name);
